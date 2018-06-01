@@ -1,0 +1,7 @@
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\bin\Debug\SecondHomework.exe.config
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\bin\Debug\SecondHomework.exe
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\bin\Debug\SecondHomework.pdb
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\obj\Debug\SecondHomework.csprojResolveAssemblyReference.cache
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\obj\Debug\SecondHomework.csproj.CoreCompileInputs.cache
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\obj\Debug\SecondHomework.exe
+D:\软谋教育培训\mywork\SecondHomework\SecondHomework\SecondHomework\obj\Debug\SecondHomework.pdb
